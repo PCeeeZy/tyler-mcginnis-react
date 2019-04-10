@@ -31,4 +31,4 @@ Unidirection Data Flow
 Explicit Mutations
     every component can have its own states explicitly set.
 
-@50:39
+Around 58 min of day2 is a good explanation of how to use `bind()` to force `this` to reference what you want.
